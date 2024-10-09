@@ -1,1 +1,1 @@
-# minera-o-dados
+# mineração-de-dados
